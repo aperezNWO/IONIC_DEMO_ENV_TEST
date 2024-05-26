@@ -34,7 +34,7 @@
               -- [x] git add *
               -- [x] git commit -m "FIRST COMMIT"
               -- [x] git push --set-upstream origin main
-              -- [x] git pull
+              -- [x] git pull --set-upstream origin main
 
 -- [x] DEPLOY AND PUBLISH 
 
