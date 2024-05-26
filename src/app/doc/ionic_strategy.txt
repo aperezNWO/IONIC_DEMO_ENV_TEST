@@ -40,13 +40,13 @@
 
        -- [x]  packages.json
 
-               -- [x]  "deploy": "ng build --c=production --base-href=\"https://aperezNWO.github.io/IONIC_DEMO_ENV_TEST/\"
-
-               -- [x]  "publish": "npx ngh --dir=www"
+               -- [x]  "deploy": 
                
-               -- [_]  npm run deploy
-              
-               -- [_]  npm run publish
+               -- [x]  "ng build --c=production --base-href=\"https://aperezNWO.github.io/IONIC_DEMO_ENV_TEST/\"
+
+               -- [x]  "publish": 
+               
+               -- [x]  "npx ngh --dir=www"
 
 -- [_] install IONIC 
 
