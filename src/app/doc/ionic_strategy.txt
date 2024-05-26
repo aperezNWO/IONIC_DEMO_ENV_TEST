@@ -1,0 +1,59 @@
+***********************************************************
+-- IONIC STRATEGY
+***********************************************************
+
+-- [_] https://ionicframework.com/
+
+-- [_] https://dashboard.ionicframework.com/org/31c49311-71ed-4c35-aaea-afb5be66a60a/apps
+
+***********************************************************
+
+-- [_] Crear aplicativo de ceros
+ 
+       -- [x] npm cache clean --force
+
+       -- [x] ng new IONIC_DEMO_ENV_TEST --no-standalone
+
+       -- [x] open folder / cd IONIC_DEMO_ENV_TEST
+
+       -- [x] abrir / compilar / ejecutar proyecto en visual studio code.
+
+              -- [x] npm run build.
+
+              -- [x] npm run start.
+
+       -- [X] crar repositorio github.
+
+              -- [X] https://github.com/aperezNWO/NG_BOOTSTRAP_DEMO_ENV_TEST.git
+
+       -- [x] agregar a github.
+
+              -- [X] git init
+              -- [X] git branch -M main
+              -- [x] git remote add origin https://github.com/aperezNWO/IONIC_DEMO_ENV_TEST.git 
+              -- [x] git add *
+              -- [x] git commit -m "FIRST COMMIT"
+              -- [x] git push --set-upstream origin main
+              -- [x] git pull
+
+-- [x] DEPLOY AND PUBLISH 
+
+       -- [x]  packages.json
+
+               -- [x]  "deploy": "ng build --c=production --base-href=\"https://aperezNWO.github.io/IONIC_DEMO_ENV_TEST/\"
+
+               -- [x]  "publish": "npx ngh --dir=www"
+               
+               -- [_]  npm run deploy
+              
+               -- [_]  npm run publish
+
+-- [_] install IONIC 
+
+       -- [_] npm -i -g @ionic/cli 
+
+-- [_] QUCK START
+
+       -- [_] https://ionicframework.com/docs
+
+***********************************************************
